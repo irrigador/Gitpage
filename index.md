@@ -4,5 +4,5 @@ Mais um projeto. Clone página do GiHub. A principal diferença é o dark mode, 
 
 ### Video demonstrativo
 
-Na aplicação do git existem dois videos em que é pospsivel ver como a pagina se comporta em diversos dispositivos
+Na aplicação do git existem dois videos em que é possível ver como a pagina se comporta em diversos dispositivos
 
